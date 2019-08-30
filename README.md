@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # MMDetection
 
@@ -158,3 +159,7 @@ If you use this toolbox or benchmark in your research, please cite this project.
 ## Contact
 
 This repo is currently maintained by Kai Chen ([@hellock](http://github.com/hellock)), Jiangmiao Pang ([@OceanPang](https://github.com/OceanPang)), Jiaqi Wang ([@myownskyW7](https://github.com/myownskyW7)) and Yuhang Cao ([@yhcao6](https://github.com/yhcao6)).
+=======
+# mmdetection
+crowdhuman re-implement
+>>>>>>> 6f6d2dd73d68285b62c96204f5aa5b789987cab3
